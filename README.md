@@ -5,6 +5,8 @@ I have used **HTML,CSS and Bootstrap** in the project and looking forward to use
 
 If you can help me in making this site better I'll be glad to collaborate. 🐣
 
+### The incomplete clone created by me: [https://everlane-clone-incomplete.netlify.app/](https://everlane-clone-incomplete.netlify.app/)
+
 ### The original Website: [https://www.everlane.com/](https://www.everlane.com/)
 
 ### Technology Stack used:
