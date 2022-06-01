@@ -1,4 +1,7 @@
 # Everlane-Clone
 
-This is the clone of Everlane Website that is under process. 
-I have used HTML,CSS and Bootstrap in the project and looking forward to use Javascript as well.
+This is an attempt to clone the Everlane Website. This project is under process. 
+I have used **HTML,CSS and Bootstrap** in the project and looking forward to use Javascript as well.
+
+If you can help me in making this site better I'll be glad to collaborate. 🐣
+
